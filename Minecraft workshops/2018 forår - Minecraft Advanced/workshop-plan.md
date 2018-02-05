@@ -6,7 +6,7 @@
 
 | Dato | Workshop plan | scope | Workshop PP |
 | --- | --- | --- | --- |
-| 6/2 | [1. gang (6/2 2017)](#1.-gang (6/2 2017) ) | vælg hvad vi skal de næste 5 gange | https://docs.google.com/presentation/d/1IE42jzBsLVOHJUZzYNlFYBdfmO5O3efcbGAyXhVx5Ug/edit?usp=sharing |
+| 6/2 | [1. gang (6/2 2017)](#1.-gang (6/2 2017) ) | vælg hvad vi skal de næste 5 gange | [link til PP](https://docs.google.com/presentation/d/1IE42jzBsLVOHJUZzYNlFYBdfmO5O3efcbGAyXhVx5Ug/edit?usp=sharing) |
 | 13/2 | [link til nedenunder] | Minecraft redstone | [link til PP] |
 | 20/2 | [link til nedenunder] | Minecraft redstone | [link til PP] |
 | 27/2 | [link til nedenunder] | Minecraft Command blocks | [link til PP] |
