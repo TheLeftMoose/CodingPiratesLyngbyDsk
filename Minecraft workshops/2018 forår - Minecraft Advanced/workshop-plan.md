@@ -7,9 +7,8 @@
 | Dato | Workshop plan | scope | Workshop PP |
 | --- | --- | --- | --- |
 | 6/2 | [1. gang (6/2 2017)](#1.-gang (6/2 2017) ) | vælg hvad vi skal de næste 5 gange | [link til PP](https://docs.google.com/presentation/d/1IE42jzBsLVOHJUZzYNlFYBdfmO5O3efcbGAyXhVx5Ug/edit?usp=sharing) |
-| 13/2 | [link til nedenunder] | Minecraft redstone | [link til PP] |
-| 20/2 | [link til nedenunder] | Minecraft redstone | [link til PP] |
-| 27/2 | [link til nedenunder] | Spigot server | [link til PP] |
+| 20/2 | [link til nedenunder] | Spigot server | [link til PP] |
+| 27/2 | [3. gang (27/2 2017)](#3.-gang (27/2 2017)) | Spigot server og BungeeCord | [link til PP] |
 | 6/3 | [link til nedenunder] | Spigot server | [link til PP] |
 
 Nyeste redstone bane: [http://bit.ly/2AHpyN2](http://bit.ly/2AHpyN2)
@@ -26,6 +25,7 @@ Java edition only:   ->> udpakkes i %appdata%\.minecraft\saves
   * Azure account + spin en ubuntu server op og forbind. Deploy minecraft server. husk firewall
   * Lad dem gøre det sammen sådan de ender med en server, med flere sub servers.
   * Find et domain og køb det
+  * Hvis Daniel er klar på det, så kan vi køre ham på docker også
 
 #### Plan
 
