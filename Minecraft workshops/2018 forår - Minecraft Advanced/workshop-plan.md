@@ -9,12 +9,33 @@
 | 6/2 | [1. gang (6/2 2017)](#1.-gang (6/2 2017) ) | vælg hvad vi skal de næste 5 gange | [link til PP](https://docs.google.com/presentation/d/1IE42jzBsLVOHJUZzYNlFYBdfmO5O3efcbGAyXhVx5Ug/edit?usp=sharing) |
 | 13/2 | [link til nedenunder] | Minecraft redstone | [link til PP] |
 | 20/2 | [link til nedenunder] | Minecraft redstone | [link til PP] |
-| 27/2 | [link til nedenunder] | Minecraft Command blocks | [link til PP] |
-| 6/3 | [link til nedenunder] | Minecraft Command blocks | [link til PP] |
+| 27/2 | [link til nedenunder] | Spigot server | [link til PP] |
+| 6/3 | [link til nedenunder] | Spigot server | [link til PP] |
 
 Nyeste redstone bane: [http://bit.ly/2AHpyN2](http://bit.ly/2AHpyN2)
 
 Java edition only:   ->> udpakkes i %appdata%\.minecraft\saves
+
+### 3. gang (27/2 2017)
+
+#### Scope
+
+* Team 1
+  * Få bungeecord op at køre på deres maskine med en lobby server (se evt folder minecraftserver, den skulle gerne være klar med opsætning og det hele... template filer overskrives med dem som bliver genereret af spigot og bungeecord)
+* Team 2
+  * Azure account + spin en ubuntu server op og forbind. Deploy minecraft server. husk firewall
+  * Lad dem gøre det sammen sådan de ender med en server, med flere sub servers.
+  * Find et domain og køb det
+
+#### Plan
+
+| **Plan** | **Ca. tidsforbrug** |
+| --- | ---|
+| Flimren rundt for at find vores lokale | 5 min |
+| Sid ned, Install og klargøring af PCer | 5 min |
+| Arbejd på hvad der står i scope. | 50 min |
+| Spise | 17 min |
+| Arbejd videre | 43 min |
 
 ### 1. gang (6/2 2017)
 
