@@ -1,0 +1,9 @@
+[Unit]
+Description=Coding Pirates service for handling minecraft servers with systemd
+
+[Service]
+ExecStart=/usr/local/bin/start-all.sh
+ExecStop=/usr/local/bin/kill-all.sh
+
+[Install]
+WantedBy=default.target
