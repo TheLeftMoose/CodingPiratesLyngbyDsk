@@ -10,12 +10,50 @@
 | 20/2 | 2. gang | Vinterferie - ingen CP | [link til PP] |
 | 27/2 | [3. gang (27/2 2018)](#3.-gang (27/2 2018)) | Spigot server og BungeeCord | [link til PP] |
 | 6/3 | [4. gang (6/3 2018)](#4.-gang (6/3 2018)) | Servere i gang og uploaded på Piratsuppen.dk | [link til PP] |
+| 13/3 | [5. gang (13/3 2018)](#4.-gang (13/3 2018)) | Servere i gang og uploaded på Piratsuppen.dk | [link til PP] |
 
 Nyeste redstone bane: [http://bit.ly/2AHpyN2](http://bit.ly/2AHpyN2)
 
 Java edition only:   ->> udpakkes i %appdata%\.minecraft\saves
 
 https://serverfault.com/questions/24523/meaning-of-directories-on-unix-and-unix-like-systems
+
+### 5. gang (13/3 2018)
+
+Vi skal have serverne igang. Så det er lidt det samme scope som i sidste gang, vi nåede det vare ikke...
+
+#### Scope
+
+* Team 1: Ubuntu server team
+  * Opsæt bungeecord og spigot serverer i mapperne
+  * Opsæt start-all.sh i roden af minecraftserver folder script med run jar i separte screens med navne som folderne
+  * Opsæt kill-all.sh til at slå alle serverne ned på samme tid
+  * Opsæt individuelle start.sh og kill-server.sh scripts i hver server folder til at starte og stoppe serverne individuelt
+  * Opsæt systemd til at køre start-all.sh ved opstart/reboot af serveren
+  * Opsæt users til alle de andre og lav dokument der beskriver hvordan de sætter en ftp client op og overfører deres servere til fyrstnillers hule
+  * Find på backup metode
+  * Minecraft Server tools til remote styring???
+  * Andre server OS firnurlige ting
+  * Måske docker?
+* Team 2: Spigot servere og lobby
+  * Rasmus vil lave en lobby server, som han gik i gang med sidste gang
+  * AP dsk, find en liste af mods/plugins som de kan tage fat i hvis de er i tvivl
+  * Ellers start med worldedit til spigot
+  * Ellers bungeeportals eller worldgard
+  * Se youtube video om hvordan man bruger worldedit og undervis i det (link)[https://www.youtube.com/watch?v=SOOvommDpUA]
+  * Vi skal have lavet en masse spigot serverer
+  * **VIGTIGTS!: Upload nogle af serverne til fyrstnillershule!!!!** sådan børnene kan få spillet på dem derhjemme til næste gang.
+
+#### Plan
+
+| **Plan** | **Ca. tidsforbrug** |
+| --- | ---|
+| Flimren rundt for at find vores lokale | 5 min |
+| Sid ned, Install og klargøring af PCer | 5 min |
+| lorum ipsum | 50 min |
+| 18:00 Spisetid | 15 min |
+| lorum ipsum | 35 min |
+
 
 ### 4. gang (6/3 2018)
 
