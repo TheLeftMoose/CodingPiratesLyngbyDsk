@@ -154,7 +154,9 @@ Jeg tænker at vi laver en minecraft server som alle kan spille på.
 * https://youtu.be/yE8jct7FZ6A
 * https://www.youtube.com/watch?v=ttd-_uzWzvk&feature=youtu.be vil være god til at lave til CP
 * xp farm https://www.youtube.com/watch?v=NxCQTfmk0jQ
-
+* anden version af item sorter https://www.reddit.com/r/Minecraft/comments/8azf1c/item_filter_with_no_redstone_dust_pistons_or/
+* fast minecrat unloader https://www.youtube.com/watch?v=gYuX3psJtE8
+* minecart loader https://www.youtube.com/watch?v=FeTHFokfJY4
 
 ### Plan Template 1. gang (6/2 2018)
 
