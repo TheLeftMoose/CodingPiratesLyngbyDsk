@@ -6,8 +6,9 @@
 
 * 4-7 USB med Kali til boot på tilfældig PC
 * 6 stk atheros chip wifi usb dongle (hvis vi skal lege med wifi hacking)
-* lille server eller laptop til at køre:
+* server eller laptop til at køre: (gerne i3/i5 med MASSER af ram)
    * CTFd (kører i docker container)
+   * diverse VMs/containere med vulnable entry points til opgaver 
 * Netværksudstyr
    * Router med usb adgang der kan køre tomato, eller openwrt sådan vi kan lave dial up via simkort
    * switch, min 8 ports
